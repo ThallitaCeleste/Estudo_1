@@ -1,0 +1,15 @@
+/build/
+.metadata/*
+.project/*
+.settings/*
+.project
+target/
+.recommenders/*
+RemoteSystemsTempFiles/*
+.Servers/*
+.servers/*
+Servers/
+servers/
+.classpath
+.classpath/
+.classpath/*
